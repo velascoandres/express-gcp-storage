@@ -11,7 +11,7 @@
 2. Export your `Google Credentials`
 
 ``` shell_script
-    export GOOGLE_APPLICATION_CREDENTIALS="<path-to-proyect>/<account-service-key>.json"
+    export GOOGLE_APPLICATION_CREDENTIALS="<path-to-project>/<account-service-key>.json"
 ```
 
 3. Run server
