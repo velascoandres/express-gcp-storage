@@ -22,7 +22,7 @@
 
 ## Usage
 
-Get the instance (singlenton)
+Get the instance (singleton)
 
 ``` typescript
 const googleCloudStorageService = GoogleCloudStorageService.instance;
